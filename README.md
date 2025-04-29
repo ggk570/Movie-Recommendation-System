@@ -37,6 +37,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 ---
 
 ## 📂 Project Structure
+```
 Movie-Recommendation-System/
 ├── main.py                      # Streamlit web app
 ├── DataPreprocessor.ipynb      # Notebook for cleaning and embedding data
@@ -47,7 +48,7 @@ Movie-Recommendation-System/
         ├── cleaned.csv         # Cleaned movie data
         ├── df.pkl              # Pickled dataframe with titles and tags
         └── embeddings.pkl      # Sentence BERT embeddings
-
+```
 ---
 
 ## 🧪 Usage
