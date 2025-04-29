@@ -45,7 +45,7 @@ Movie-Recommendation-System/
 ├── README.md                   # Project documentation
 └── Datasets/
     └── cleaned/
-        ├── cleaned.csv         # Cleaned movie data
+        ├── processed.csv         # Cleaned movie data
         ├── df.pkl              # Pickled dataframe with titles and tags
         └── embeddings.pkl      # Sentence BERT embeddings
 ```
