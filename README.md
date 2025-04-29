@@ -33,6 +33,8 @@ python -m venv venv
 # On Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+```
+---
 
 ## 📂 Project Structure
 Movie-Recommendation-System/
@@ -45,6 +47,8 @@ Movie-Recommendation-System/
         ├── cleaned.csv         # Cleaned movie data
         ├── df.pkl              # Pickled dataframe with titles and tags
         └── embeddings.pkl      # Sentence BERT embeddings
+
+---
 
 ## 🧪 Usage
 streamlit run main.py
