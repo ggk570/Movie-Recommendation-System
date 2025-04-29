@@ -34,6 +34,11 @@ python -m venv venv
 pip install -r requirements.txt
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
+
+### 2. Download dataset
+1. Download the [Datasets.zip](https://drive.google.com/file/d/1NSKYH0Vv-Bux6uC-ah6pzOIgjaewxRZn/view?usp=sharing)
+2. Extract it as per project structure shown below
+
 ---
 
 ## 📂 Project Structure
