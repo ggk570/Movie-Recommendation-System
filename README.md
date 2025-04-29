@@ -57,4 +57,6 @@ Movie-Recommendation-System/
 ---
 
 ## 🧪 Usage
+```bash
 streamlit run main.py
+```
